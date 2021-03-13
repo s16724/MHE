@@ -1,7 +1,7 @@
 # MHE
 
 Post correspondence problem - przykład nierozstrzygalnego problemu decyzyjnego.
-celem jest znalezienie konkatenacji tych słów w takiej kolejności, aby obie listy dawały ten sam wynik.
+Celem jest znalezienie konkatenacji tych słów w takiej kolejności, aby obie listy dawały ten sam wynik.
 
 przykład:
 Biorąc dwie listy A i B gdzie:
