@@ -16,7 +16,7 @@ rozwiazanie : 2 1 1 3
 numerator  : abaaaaaab        
 denominator: abaaaaaab 
 
-ex2                   
+ex2
 rozwiazanie : 1 2 1 3 
 numerator  : aabbaaabb
 denominator: aabbaaabb
