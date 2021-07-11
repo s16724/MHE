@@ -11,10 +11,15 @@ ___|___________|______________|
 2  | abaaa     |        ab    |
 3  | ab        |        b     |
 --------------------------------
-ex1                             ex2
-rozwiazanie : 2 1 1 3           rozwiazanie : 1 2 1 3
-numerator  : abaaaaaab          numerator  : aabbaaabb
-denominator: abaaaaaab          denominator: aabbaaabb
+ex1                            
+rozwiazanie : 2 1 1 3         
+numerator  : abaaaaaab        
+denominator: abaaaaaab 
+
+ex2                   
+rozwiazanie : 1 2 1 3 
+numerator  : aabbaaabb
+denominator: aabbaaabb
 
 ex 3
 rozwiazanie : 1 3 1 1 3 2 2
